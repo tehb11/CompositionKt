@@ -1,4 +1,4 @@
- package ru.illidan.composition
+ package ru.illidan.composition.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
